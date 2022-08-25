@@ -1,9 +1,0 @@
-.logo {
-  &__img {
-    height: 66px;
-
-    @include onPhone {
-      height: 46px;
-    }
-  }
-}
